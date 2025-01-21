@@ -6,7 +6,7 @@ import './SocialLinks.css';
 const SocialLinks = () => {
   return (
     <div className="social-links">
-      <a href="https://www.linkedin.com/in/aman-sharma-451585304" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/amansharmayt19" target="_blank" rel="noopener noreferrer">
         <FaLinkedinIn />
       </a>
       {/* <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
